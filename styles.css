@@ -1,0 +1,28 @@
+body{
+    background-color:red;
+ text-align: center;   
+}
+
+.main{
+    background-color: transparent;
+margin-top: 300px;
+margin-bottom: auto;
+text-align: center;
+}
+
+.main button{
+    padding: 9px;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 20px;   
+    background-image: url(Flare.jpg);
+    transition: all 0.3s ease;
+}
+.main button:hover{
+    padding: 9px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 20px;   
+    background-image: url(Flare.jpg);
+    transition: all 0.3s ease;
+}
